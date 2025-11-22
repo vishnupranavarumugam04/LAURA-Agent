@@ -1,0 +1,16 @@
+{
+  "trained_date": "2025-11-21T11:29:23.881224",
+  "feature_names": [
+    "sleep_quality",
+    "stress_level",
+    "focus_score",
+    "time_of_day",
+    "task_complexity",
+    "break_frequency",
+    "previous_day_productivity",
+    "day_of_week",
+    "tasks_completed_yesterday",
+    "sleep_hours"
+  ],
+  "model_type": "RandomForestRegressor"
+}

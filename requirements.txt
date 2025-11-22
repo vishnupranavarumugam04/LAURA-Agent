@@ -1,0 +1,12 @@
+streamlit>=1.30.0
+streamlit-option-menu
+python-dotenv
+google-generativeai
+PyPDF2
+numpy
+plotly
+pandas
+altair
+scikit-learn>=1.3.0
+joblib
+scipy
