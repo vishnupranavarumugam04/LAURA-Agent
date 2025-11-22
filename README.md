@@ -2603,9 +2603,9 @@ Author: A VISHNU PRANAV
 Email: vpranav4126@gmail.com
 Kaggle Profile: https://www.kaggle.com/vishnupranav4
 LinkedIn: https://www.linkedin.com/in/vishnupranavarumugam04/
-Project Links:
+Project Links: https://laura-agent-w9tcucvlthxrtw5lmyofg6.streamlit.app/
 
-GitHub Repository: https://github.com/[your-username]/laura-agent
+GitHub Repository: https://github.com/vishnupranavarumugam04/LAURA-Agent
 Demo Video: https://youtu.be/6ggPLn-ElvE
 Kaggle Submission: [Your Kaggle Writeup URL]
 Documentation: [Your docs URL if separate]
@@ -2623,7 +2623,7 @@ bibtex@software{laura_agent_2025,
   author = {A VISHNU PRANAV},
   title = {LAURA: Life & Understanding Research Assistant - Adaptive Life Concierge Agent},
   year = {2025},
-  url = {https://github.com/[your-username]/laura-agent},
+  url = {https://github.com/vishnupranavarumugam04/LAURA-Agent},
   note = {Kaggle AI Agents Intensive - Capstone Project}
 }
 
