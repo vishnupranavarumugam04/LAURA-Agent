@@ -2607,8 +2607,8 @@ Project Links: https://laura-agent-w9tcucvlthxrtw5lmyofg6.streamlit.app/
 
 GitHub Repository: https://github.com/vishnupranavarumugam04/LAURA-Agent
 Demo Video: https://youtu.be/6ggPLn-ElvE
-Kaggle Submission: [Your Kaggle Writeup URL]
-Documentation: [Your docs URL if separate]
+Kaggle Submission: https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1763726062438
+Documentation: https://github.com/vishnupranavarumugam04/LAURA-Agent/wiki
 
 Capstone Project:
 
